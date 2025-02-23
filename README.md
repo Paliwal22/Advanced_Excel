@@ -1,7 +1,34 @@
-## Excel:- Consumer Complaint Analysis
-<br>
-Objective :- To identify key trends and patterns in customer complaints, helping businesses understand issues related to products, states, and communication channels. The analysis aims to improve service efficiency, enhance response times, and optimize complaint resolution processes, ultimately boosting customer satisfaction.
-<br>
-This project involves the analysis of consumer complaints to identify key patterns and insights that help companies improve their complaint resolution processes. The analysis covers data preparation, including merging and mapping datasets, analyzing complaint resolution times, and summarizing complaint trends by company, product, and state.
-<br>
-Key performance indicators (KPIs) :- Complaint volume, timely responses, disputed complaints, and resolution delays are calculated, followed by the creation of an interactive dashboard for visualizing trends and proportions. The goal is to provide actionable insights for improving customer satisfaction and service delivery.
+# Consumer Complaint Analysis with Excel
+
+This repository contains the Excel files and analysis for exploring consumer complaint data to gain insights into customer satisfaction and service delivery.
+
+## Objective
+
+The primary objective is to demonstrate proficiency in using Excel for data analysis by identifying key trends, patterns, and actionable insights from consumer complaint data.
+
+## Procedure
+
+The analysis follows these steps:
+
+1.  **Data Acquisition and Preparation:** Importing, cleaning, and consolidating data.
+2.  **Data Analysis and KPI Calculation:** Calculating complaint volume, response times, and other relevant KPIs.
+3.  **Visualization and Dashboard Creation:** Creating charts and interactive dashboards in Excel.
+4.  **Insight Generation and Reporting:** Interpreting results and providing actionable recommendations.
+
+## Key Excel Techniques
+
+* Data Import and Cleaning
+* Pivot Tables and Pivot Charts
+* Slicers and Filters
+* Formulas and Functions
+* Chart Creation and Formatting
+* Dashboard Design
+
+## Files
+
+* `consumer_complaints.xlsx`: Excel workbook containing the data and analysis.
+* `README.md`: This description file.
+
+## Results
+
+This project provides insights into consumer complaint trends, identifies areas for service improvement, and offers recommendations for enhancing customer satisfaction.
