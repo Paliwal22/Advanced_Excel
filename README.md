@@ -1,5 +1,7 @@
 ## Excel:- Consumer Complaint Analysis
 <br>
-•	Developed an interactive dashboard for Consumer Complaint Analysis, enabling stakeholders to visualize key performance indicators (KPIs) such as a 25% year-over-year increase in timely complaint responses and a 15% reduction in average resolution time.
+Objective :- To identify key trends and patterns in customer complaints, helping businesses understand issues related to products, states, and communication channels. The analysis aims to improve service efficiency, enhance response times, and optimize complaint resolution processes, ultimately boosting customer satisfaction.
 <br>
-•	Identified and prioritized top customer complaint issues through data visualization, leading to a targeted strategy that reduced complaints related to "Loan application processing delays" by 30% within six months.
+This project involves the analysis of consumer complaints to identify key patterns and insights that help companies improve their complaint resolution processes. The analysis covers data preparation, including merging and mapping datasets, analyzing complaint resolution times, and summarizing complaint trends by company, product, and state.
+<br>
+Key performance indicators (KPIs) such as complaint volume, timely responses, disputed complaints, and resolution delays are calculated, followed by the creation of an interactive dashboard for visualizing trends and proportions. The goal is to provide actionable insights for improving customer satisfaction and service delivery.
